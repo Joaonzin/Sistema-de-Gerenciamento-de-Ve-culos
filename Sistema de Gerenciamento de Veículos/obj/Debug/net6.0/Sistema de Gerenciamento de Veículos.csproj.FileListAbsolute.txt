@@ -1,0 +1,15 @@
+C:\Users\Alunos\Pictures\Joâo\Sistema de Gerenciamento de Veículos\Sistema de Gerenciamento de Veículos\bin\Debug\net6.0\Sistema de Gerenciamento de Veículos.exe
+C:\Users\Alunos\Pictures\Joâo\Sistema de Gerenciamento de Veículos\Sistema de Gerenciamento de Veículos\bin\Debug\net6.0\Sistema de Gerenciamento de Veículos.deps.json
+C:\Users\Alunos\Pictures\Joâo\Sistema de Gerenciamento de Veículos\Sistema de Gerenciamento de Veículos\bin\Debug\net6.0\Sistema de Gerenciamento de Veículos.runtimeconfig.json
+C:\Users\Alunos\Pictures\Joâo\Sistema de Gerenciamento de Veículos\Sistema de Gerenciamento de Veículos\bin\Debug\net6.0\Sistema de Gerenciamento de Veículos.dll
+C:\Users\Alunos\Pictures\Joâo\Sistema de Gerenciamento de Veículos\Sistema de Gerenciamento de Veículos\bin\Debug\net6.0\Sistema de Gerenciamento de Veículos.pdb
+C:\Users\Alunos\Pictures\Joâo\Sistema de Gerenciamento de Veículos\Sistema de Gerenciamento de Veículos\obj\Debug\net6.0\Sistema de Gerenciamento de Veículos.csproj.AssemblyReference.cache
+C:\Users\Alunos\Pictures\Joâo\Sistema de Gerenciamento de Veículos\Sistema de Gerenciamento de Veículos\obj\Debug\net6.0\Sistema de Gerenciamento de Veículos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Pictures\Joâo\Sistema de Gerenciamento de Veículos\Sistema de Gerenciamento de Veículos\obj\Debug\net6.0\Sistema de Gerenciamento de Veículos.AssemblyInfoInputs.cache
+C:\Users\Alunos\Pictures\Joâo\Sistema de Gerenciamento de Veículos\Sistema de Gerenciamento de Veículos\obj\Debug\net6.0\Sistema de Gerenciamento de Veículos.AssemblyInfo.cs
+C:\Users\Alunos\Pictures\Joâo\Sistema de Gerenciamento de Veículos\Sistema de Gerenciamento de Veículos\obj\Debug\net6.0\Sistema de Gerenciamento de Veículos.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Pictures\Joâo\Sistema de Gerenciamento de Veículos\Sistema de Gerenciamento de Veículos\obj\Debug\net6.0\Sistema de Gerenciamento de Veículos.dll
+C:\Users\Alunos\Pictures\Joâo\Sistema de Gerenciamento de Veículos\Sistema de Gerenciamento de Veículos\obj\Debug\net6.0\refint\Sistema de Gerenciamento de Veículos.dll
+C:\Users\Alunos\Pictures\Joâo\Sistema de Gerenciamento de Veículos\Sistema de Gerenciamento de Veículos\obj\Debug\net6.0\Sistema de Gerenciamento de Veículos.pdb
+C:\Users\Alunos\Pictures\Joâo\Sistema de Gerenciamento de Veículos\Sistema de Gerenciamento de Veículos\obj\Debug\net6.0\Sistema de Gerenciamento de Veículos.genruntimeconfig.cache
+C:\Users\Alunos\Pictures\Joâo\Sistema de Gerenciamento de Veículos\Sistema de Gerenciamento de Veículos\obj\Debug\net6.0\ref\Sistema de Gerenciamento de Veículos.dll
